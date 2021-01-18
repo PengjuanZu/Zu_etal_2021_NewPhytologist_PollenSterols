@@ -14,7 +14,7 @@ The repository contains:
 
 -> **NewestSterolTaxa_nov0419.csv** Initial list of taxa to get phylogeny for
 
-—> **PollenSterolPercentPCA.csv** _description needed_
+—> **PollenSterolPercentPCA.csv** Relative sterol amount (percentage) for each plant species
 
 —> **PollenTaxoFam.csv** Family names for monophyly-testing
 
@@ -23,7 +23,9 @@ The repository contains:
 
 > **Scripts:** R scripts for the analyses
 
--> **Niche.R** _description needed_
+-> **MRM.R** Codes for MRM analysis (multiple regression on distance matrices).
+
+-> **Niche.R** Clean records of environmental variables for each species and produce 3 main PCs and calculate alpha-shaped 3D volume
 
 —> **PollenSterolPCA.R** PCA/factor analysis
 
