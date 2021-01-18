@@ -7,7 +7,7 @@ library(geiger)
 library(phytools)
 
 # load phylogeny and plot to check
-phy <- read.tree(file= "PollenSterol122DatedLadder_new.tre")
+phy <- read.tree(file= "PollenSterol122DatedLadder.tre")
 plot(phy, cex=0.4)
 
 # correct some tip labels

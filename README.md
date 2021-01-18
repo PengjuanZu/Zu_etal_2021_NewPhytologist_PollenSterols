@@ -12,14 +12,18 @@ The repository contains:
 
 **Inputs**: input files for each analysis (part of Table S1 in Supporting Information)
 
-—> PollenSterolPercentPCA.csv
+-> **NewestSterolTaxa_nov0419.csv** Initial list of taxa to get phylogeny for
 
-—>
+—> **PollenSterolPercentPCA.csv** _description needed_
 
-—>
+—> **PollenTaxoFam.csv** Family names for monophyly-testing
+
+—> **sterolCombo_new.csv** Sterol data for phylogenetic signal and plot
+
 
 **Scripts:** R scripts for the analyses
--> **Niche.R** _description neeed_
+
+-> **Niche.R** _description needed_
 
 —> **PollenSterolPCA.R** PCA/factor analysis
 
