@@ -1,6 +1,6 @@
 # New Phytologist Supporting Information
 
-## Article title: <br/> Pollen sterols are associated with phylogeny and environment but not with pollinators
+## Article title: <br/> Pollen sterols are associated with phylogeny and environment but not with pollinator guilds
 
 ### Authors:
 
