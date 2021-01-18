@@ -1,7 +1,6 @@
 # New Phytologist Supporting Information
 
-## Article title:
-Pollen sterols are associated with phylogenetics and environment but not with pollinators
+## Article title: <br/> Pollen sterols are associated with phylogenetics and environment but not with pollinators
 
 ### Authors:
 
