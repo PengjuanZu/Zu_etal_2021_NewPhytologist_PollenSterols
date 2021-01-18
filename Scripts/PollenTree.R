@@ -1,6 +1,5 @@
-# Edited script to get synthetic tree of sterol taxa
-# Pengjuan Zu & Orlando Schwery 21. August 2019
-
+# to get synthetic tree of sterol taxa
+# load library
 library(rotl)
 library(ape)
 
