@@ -1,19 +1,15 @@
-# PollenSterolCode_NewPhyt
-Repo for code used in pollen sterol project, to be deposited in Zenodo
-
 # New Phytologist Supporting Information
 
 ## Article title:
+Pollen sterols are associated with phylogenetics and environment but not with pollinators
 
-## Pollen sterols are associated with phylogenetics and environment but not with pollinators
-
-## Authors:
+### Authors:
 
 Pengjuan Zu*, Hauke Koch, Orlando Schwery, Samuel Pironon, Charlotte Phillips, Ian Ondo, Iain W. Farrell, W. David Nes, Elynor Moore, Geraldine A. Wright, Dudley I. Farman, Philip C. Stevenson
 
 **Article acceptance date:** 14 January 2021
 
-The file contains:
+The repository contains:
 
 **Inputs**: input files for each analysis (part of Table S1 in Supporting Information)
 
