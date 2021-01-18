@@ -10,7 +10,7 @@ Pengjuan Zu*, Hauke Koch, Orlando Schwery, Samuel Pironon, Charlotte Phillips, I
 
 The repository contains:
 
-**Inputs**: input files for each analysis (part of Table S1 in Supporting Information)
+> **Inputs**: input files for each analysis (part of Table S1 in Supporting Information)
 
 -> **NewestSterolTaxa_nov0419.csv** Initial list of taxa to get phylogeny for
 
@@ -21,7 +21,7 @@ The repository contains:
 —> **sterolCombo_new.csv** Sterol data for phylogenetic signal and plot
 
 
-**Scripts:** R scripts for the analyses
+> **Scripts:** R scripts for the analyses
 
 -> **Niche.R** _description needed_
 
