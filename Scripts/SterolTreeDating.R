@@ -1,6 +1,5 @@
 # Script for Pollen Sterol analyses - tree dating
-# Orlando Schwery 2018
-
+# load library
 library(adephylo)
 library(phytools)
 library(phylosignal)
