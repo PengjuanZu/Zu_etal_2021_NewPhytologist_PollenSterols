@@ -25,7 +25,7 @@ The repository contains:
 
 -> **MRM.R** Codes for MRM analysis (multiple regression on distance matrices).
 
--> **Niche.R** Clean records of environmental variables for each species and produce 3 main PCs and calculate alpha-shaped 3D volume
+-> **Niche.R** Clean records of environmental variables for each species, produce 3 main PCs and calculate alpha-shaped 3D volume
 
 —> **PollenSterolPCA.R** PCA/factor analysis
 
