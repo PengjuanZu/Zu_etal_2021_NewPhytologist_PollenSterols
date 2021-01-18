@@ -1,6 +1,5 @@
 # Script for Pollen Sterol analyses
-# Orlando Schwery 2018
-
+# load library
 library(ape)
 library(geiger)
 # library(plotrix)
